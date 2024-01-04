@@ -1,3 +1,6 @@
+![image](https://github.com/corinachistol/react-usepopcorn/assets/115491975/04a90522-9fe2-48fa-8b88-aff94e649cfd)
+![image](https://github.com/corinachistol/react-usepopcorn/assets/115491975/66072c00-0672-440a-a7ec-8abcd3e48588)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
